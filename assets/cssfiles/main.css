@@ -520,7 +520,7 @@ header, main, footer {
 .bar{
     background: #353b48;
     display: block;
-    width:600px;
+    width:500px;
     height: 10px;
     border: 1px solid rgba(0, 0, 0, 0.3);
     border-radius: 3px;
